@@ -566,4 +566,8 @@ public class MovieTicketManagerGUI extends Application {
             HBox.setMargin(node, new Insets(5, 5, 10, 5));
         }
     }
+    
+    public static void main(String[] args) {
+    	launch(args);
+    }
 }

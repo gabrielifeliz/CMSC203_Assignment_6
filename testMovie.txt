@@ -1,0 +1,4 @@
+Venom:PG13:21:15:NONE:Adult:0
+The Grinch:PG:17:23:NONE:Child:0
+Logan:R:5:22:NONE:Employee:12321
+The Incredibles 2:PG:16:12:IMAX:MoviePass:15973
